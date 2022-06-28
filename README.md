@@ -3,4 +3,4 @@
 ✔️Each of the buttons represents its sound.<br>
 ✔️Also, you can use the keyboard to create a rhythm.<br>
 
-![Screenshot (466)](https://user-images.githubusercontent.com/65167376/168332374-5fadc210-2a94-4e48-bb81-39525ae6bb8e.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/60797245/176214645-1529fdd9-1b35-47f0-a5b5-5e57980a4c3a.png)
